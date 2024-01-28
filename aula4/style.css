@@ -1,0 +1,33 @@
+div{
+    background-color: azure;;
+    display: flex;
+    color: rgb(57, 86, 253);
+}
+p{color: black;}
+
+.conteudo{
+    background-color: black;
+    color: aliceblue;
+    display: flex;
+    justify-content: left;
+}
+#ini{
+    background-color: rgb(4, 25, 43);
+    font-size: large;
+    display: flex;
+    justify-content: left;
+}
+img    {
+    border-radius: 70%;
+}
+.img{background-color: black;
+color: aliceblue;
+display: flex;
+justify-content: center;}
+
+p{color: aliceblue;}
+
+.ig{
+    display: flex;
+    justify-content: left;
+}
